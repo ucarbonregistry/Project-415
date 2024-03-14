@@ -48,4 +48,38 @@ serve as the fundamental building blocks of a complete PV (photovoltaic) generat
 multiple PV panels are mounted on a frame, they form what is known as a PV Array. By displacing
 fossil fuel-based electricity generation in the regional grid, this project contributes to reducing GHG
 emissions.
+_________________
+ISSUANCE DATE: 14/03/2024
 
+QUANTITY TOTAL: 1540 CoUs
+___________________
+Serial Number: 0001-000001-000283-UCR-CoU-IN-415-01032019-31122019
+
+Vintage Year: 2019
+
+Quantity: 283
+__________________
+Serial Number: 0001-000284-000629-UCR-CoU-IN-415-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 346
+______________________
+Serial Number: 0001-000630-000937-UCR-CoU-IN-415-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 308
+___________________
+Serial Number: 0001-000938-001249-UCR-CoU-IN-415-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 312
+______________________
+Serial Number: 0001-001250-001540-UCR-CoU-IN-415-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 291
+___________________
